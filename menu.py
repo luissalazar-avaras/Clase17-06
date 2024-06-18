@@ -51,10 +51,7 @@ def salir():
 menu_principal()
 
 """comandos"""
-#git clone https://github.com/luissalazar-avaras/repositorioluis.git PARA CLONAR EL REPOSITORIO
-#cd repositorioluis MOVERSE AL REPOSITORIO
-#git add . copiar al repositorio
+#git clone https://github.com/luissalazar-avaras/repositorioluis.git
+#git diff
 #git commit -m "estoy haciendo el menú" MENSAJE
-#git config --global user.name luissalazar-avaras
 #git push SUBIR EL ARCHIVO
-print("hola")
