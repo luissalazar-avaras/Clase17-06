@@ -49,9 +49,3 @@ def salir():
 
 
 menu_principal()
-
-"""comandos"""
-#git clone https://github.com/luissalazar-avaras/repositorioluis.git
-#git diff
-#git commit -m "estoy haciendo el menú" MENSAJE
-#git push SUBIR EL ARCHIVO
